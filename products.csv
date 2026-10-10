@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Product_Type,Business_Unit
+P001,Savings Account,Deposit,Retail Banking
+P002,Personal Loan,Loan,Retail Banking
+P003,Credit Card,Card,Retail Banking
+P004,Home Loan,Loan,Retail Banking
+P005,Auto Loan,Loan,Retail Banking
+P006,Business Loan,Loan,SME Banking
+P007,Term Deposit,Deposit,Retail Banking
+P008,Remittance Service,Service,Digital Banking
+P009,Mobile Banking,Service,Digital Banking
+P010,Internet Banking,Service,Digital Banking
+P011,Insurance Premium,Insurance,Bancassurance
+P012,Merchant Service,Service,SME Banking
